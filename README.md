@@ -1,5 +1,4 @@
-<h1 align="center">Ronaldo Machado</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Ronaldo Machado - Full-Stack Developer</h1>
 
 - 🔭 I’m currently **open to work**
 
